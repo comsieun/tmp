@@ -1,3 +1,4 @@
 printf("hello world");
 유시은 힘들다
 아 힘들다
+복습
